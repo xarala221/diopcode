@@ -1,10 +1,12 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Why you should use Netlify CMS for your next blog ?
 date: 2016-12-17T15:04:10.000Z
+description: >-
+  In this step by step tutorial i will show you how to use Netlify CMS and
+  Gastby to build a high level sclable blog.
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
   - flavor
   - tasting
